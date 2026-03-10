@@ -92,14 +92,13 @@ El objetivo es identificar patrones que permitan anticipar qué clientes tienen 
 
 ---
 ## Telecom Parte 1
-[Notebook Churn Parte 1](https://github.com/Pameta1/Telecom_X/blob/main/analisis_churn.ipynb)
+[TelecomX_1_final.ipynb](https://github.com/Pameta1/Telecom_X/blob/main/analisis_churn.ipynb)
 
 ## 👩‍💻 Autor
 **Pamela Tapia** 
 ## 🔗 Contacto y Redes
 
 - [LinkedIn – Pamela Tapia Ponce](https://www.linkedin.com/in/pamelatapiaponce/)
-- 📧 [pamelatapiaptp@gmail.com](mailto:pamelatapiaptp@gmail.com)
-https://www.linkedin.com/in/pamelatapiaponce/
-pamelatapiaptp@gmail.com
-Proyecto desarrollado como parte del aprendizaje en **análisis de datos y machine learning aplicado al churn de clientes**.
+- 📧 [pamelatapiaptp@gmail.com]
+
+  Proyecto desarrollado como parte del aprendizaje en **análisis de datos y machine learning aplicado al churn de clientes**.
