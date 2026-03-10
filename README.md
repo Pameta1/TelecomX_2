@@ -13,7 +13,7 @@ El objetivo es identificar patrones que permitan anticipar qué clientes tienen 
 ---
 
 ## 📂 Estructura del Proyecto
-📁 churn-client-analysis │ ├── 📄 README.md ├── 📄 analisis_churn.ipynb ├── 📄 datos_clientes.csv │ └── 📁 graficos ├── matriz_correlacion.png ├── curva_roc.png └── feature_importance.png
+📁 churn-client-analysis │ ├── 📄 README.md ├── 📄 TelecomX_2Final.ipynb ├── 📄 datos_tratados.csv │ └── 📁 graficos ├── matriz_correlacion.png ├── curva_roc.png └── importancia_variables.png
 
 ---
 
@@ -62,7 +62,7 @@ El objetivo es identificar patrones que permitan anticipar qué clientes tienen 
 - `TipoContrato`  
 - `InternetFibra`  
 
-![Importancia de variables](graficos/feature_importance.png)
+![Importancia de variables](graficos/importancia_variables.png)
 
 ---
 
@@ -92,10 +92,14 @@ El objetivo es identificar patrones que permitan anticipar qué clientes tienen 
 
 ---
 ## Telecom Parte 1
-
+[Notebook Churn Parte 1](https://github.com/Pameta1/Telecom_X/blob/main/analisis_churn.ipynb)
 
 ## 👩‍💻 Autor
 **Pamela Tapia** 
+## 🔗 Contacto y Redes
+
+- [LinkedIn – Pamela Tapia Ponce](https://www.linkedin.com/in/pamelatapiaponce/)
+- 📧 [pamelatapiaptp@gmail.com](mailto:pamelatapiaptp@gmail.com)
 https://www.linkedin.com/in/pamelatapiaponce/
 pamelatapiaptp@gmail.com
 Proyecto desarrollado como parte del aprendizaje en **análisis de datos y machine learning aplicado al churn de clientes**.
