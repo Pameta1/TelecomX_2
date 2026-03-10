@@ -92,7 +92,7 @@ El objetivo es identificar patrones que permitan anticipar qué clientes tienen 
 
 ---
 ## Telecom Parte 1
-[TelecomX_1_final.ipynb](https://github.com/Pameta1/Telecom_X/tree/main/churn-client-analysis)
+[TelecomX_1_final.ipynb](https://github.com/Pameta1/Telecom_X/blob/f9f78566786385ba2f56af22171d9e6da253f92a/TelecomX_1_final.ipynb)
 
 ## 👩‍💻 Autor
 **Pamela Tapia** 
