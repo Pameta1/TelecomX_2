@@ -13,7 +13,7 @@ El objetivo es identificar patrones que permitan anticipar qué clientes tienen 
 ---
 
 ## 📂 Estructura del Proyecto
-📁 churn-client-analysis │ ├── 📄 README.md ├── 📄 TelecomX_2Final.ipynb ├── 📄 datos_tratados.csv │ └── 📁 graficos ├── matriz_correlacion.png ├── curva_roc.png └── importancia_variables.png
+📁 TelecomX_2 │ ├── 📄 README.md ├── 📄 TelecomX_2Final.ipynb ├── 📄 datos_tratados.csv │ └── 📁 graficos ├── matriz_correlacion.png ├── curva_roc.png └── importancia_variables.png
 
 ---
 
